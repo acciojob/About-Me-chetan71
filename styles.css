@@ -41,14 +41,14 @@ body {
         }
 
         /* Flexbox for the profile header with image and text */
-        #profile-header {
+        #Name {
             display: flex;
             align-items: center;
             margin-bottom: 20px;
         }
 
-        #profile-header .name-details {
-            flex: 1;
+        #Name .name-details {
+         Name
         }
 
         /* Left and right column layout */
